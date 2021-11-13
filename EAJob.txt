@@ -1,0 +1,34 @@
+{
+  "name": "cl-ea-nft-hackathon",
+  "initiators": [
+    {
+      "id": 8,
+      "jobSpecId": "34eb419a-6300-4066-94c9-565d1d846212",
+      "type": "runlog",
+      "params": {
+        "address": "0x0ebc28be8687373df8fb4ab353f351ab19694681"
+      }
+    }
+  ],
+  "tasks": [
+    {
+      "jobSpecId": "34eb419a6300406694c9565d1d846212",
+      "type": "cl-ea-nft-hackathon"
+    },
+    {
+      "jobSpecId": "34eb419a6300406694c9565d1d846212",
+      "type": "resultcollect"
+    },
+    {
+      "jobSpecId": "34eb419a6300406694c9565d1d846212",
+      "type": "ethtx",
+      "confirmations": 1,
+      "params": {
+        "abiEncoding": [
+          "bytes32",
+          "bytes"
+        ]
+      }
+    }
+  ]
+}
