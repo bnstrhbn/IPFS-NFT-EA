@@ -1,3 +1,5 @@
+See https://github.com/bnstrhbn/Family-Photo for more information about how this is used. The information below is basic info about deploying this Python EA locally via Docker or to the cloud for use in a Chainlink node.
+
 # Chainlink Python Serverless External Adapter Template
 
 ![Lint and unit testing](https://github.com/thodges-gh/CL-EA-Python-Template/workflows/Lint%20and%20unit%20testing/badge.svg)
